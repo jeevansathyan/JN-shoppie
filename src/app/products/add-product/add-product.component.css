@@ -1,0 +1,29 @@
+.form-outerdiv{
+background-color: bisque;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.form-div{
+width: 650px;
+height: 600px;
+background-color: aqua;
+margin-top: 50px;
+margin-bottom: 50px;
+border: 2px solid;
+border-radius: 20px;
+}
+.addform-inputs{
+float: right;
+width: 275px;
+margin-right: 60px;
+}
+.input-div{
+height: 45px;
+}
+.inp-label{
+margin-left: 15px;
+}
+.form-coln{
+margin-left: 10px;
+}
